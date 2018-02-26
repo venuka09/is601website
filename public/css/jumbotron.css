@@ -1,9 +1,12 @@
 /* Move down content because we have a fixed navbar that is 3.5rem tall */
 body {
-    padding-top: 3.5rem;
+    min-height: 700px;
+    padding-top: 70px;
+    background-color: aquamarine;
 }
 
 .jumbotron {
+    padding-top: 200px;
     margin-bottom: 0px;
     background-image: url(https://www.maldives.com/wp-content/uploads/2017/12/Hard-Rock-International-to-Make-Waves-in-Indian-Ocean-with-Hard-Rock-Hotel-Maldives.jpg);
     background-position: 20% 25%;

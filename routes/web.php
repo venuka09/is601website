@@ -40,6 +40,9 @@ Route::post('/contact', function () {
     echo " Subject: " . $data['subject'] . "<br>";
     echo " Body: " . $data['body'];
 });
+Route::get('/logout', function () {
+    return view('pages.logout');
+});
 Route::get('/viewmessage', function () {
     return view('pages.viewmessage');
 });

@@ -9,7 +9,7 @@
             <tr>
                 <th>#</th>
                 <th>Message</th>
-                <th>Option</th>
+                <th>Delete</th>
             </tr>
             </thead>
             <tbody>

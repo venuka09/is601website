@@ -8,7 +8,6 @@
 
     <title>Ala Travel</title>
     <link href="/css/jumbotron.css" rel="stylesheet">
-    <link href="/css/about.css" rel="stylesheet">
     <link href="/css/signin.css" rel="stylesheet">
     <link href="/css/signup.css" rel="stylesheet">
 </head>
