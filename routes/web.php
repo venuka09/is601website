@@ -46,3 +46,6 @@ Route::get('/logout', function () {
 Route::get('/viewmessage', function () {
     return view('pages.viewmessage');
 });
+Route::get('/message', function () {
+    return view('pages.message');
+});
