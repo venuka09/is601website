@@ -16,6 +16,11 @@
                 </div>
 
                 <div class="form-group">
+                    <label for="subject">Subject</label>
+                    <input name="subject" type="subject" class="form-control" id="subject">
+                </div>
+
+                <div class="form-group">
                     <label for="body">Message</label>
                     <textarea name="body" class="form-control" id="body" rows="3"></textarea>
                 </div>

@@ -6,6 +6,9 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title>Ala Travel</title>
     <link href="/css/jumbotron.css" rel="stylesheet">
+    <link href="/css/about.css" rel="stylesheet">
+    <link href="/css/signin.css" rel="stylesheet">
+    <link href="/css/signup.css" rel="stylesheet">
 </head>

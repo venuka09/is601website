@@ -7,8 +7,8 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
         <div class="container">
-            <h1 class="display-3">Hello, world!</h1>
-            <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+            <h1 class="display-3">Ala Travel </h1>
+            <p>Ala Travel works hard to secure the best hotel rates in the most popular destinations. Browse hotels by destination to get started and check out our hotel reviews, written by customers just like you. </p>
             <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
         </div>
     </div>
@@ -17,18 +17,19 @@
         <!-- Example row of columns -->
         <div class="row">
             <div class="col-md-4">
-                <h2>Heading</h2>
-                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                <h2>Hotels</h2>
+                <p>Why pay more? <br>
+                    Sign up for member prices and you could save 10% or more on thousands of hotels. </p>
                 <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
             </div>
             <div class="col-md-4">
-                <h2>Heading</h2>
-                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                <h2>Flights</h2>
+                <p>Looking for the cheap flights within the United States? Expedia has everything you need, Find the cheapest airfares for our top US destinations. </p>
                 <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
             </div>
             <div class="col-md-4">
-                <h2>Heading</h2>
-                <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                <h2>Packages</h2>
+                <p>Expedia makes it easy to book European vacation packages. With top deals on international flights & hotels, anyone can discover Europe's hidden treasures - often at a discount. </p>
                 <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
             </div>
         </div>
